@@ -2,6 +2,8 @@
 
 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Federico%20Elia-0A66C2?logo=linkedin&logoColor=white)](https://it.linkedin.com/in/federico-elia-5199951b6)
+
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
